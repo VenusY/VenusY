@@ -1,6 +1,6 @@
 ## Hi there, I'm Venus Yip 👋
 
-Welcome to my profile! I am a self-taught programmer with a curious mind who loves learning and building interesting projects! I have always loved a good challenge and am currently having fun dabbling in backend development and trying to master React.
+Welcome to my profile! I am a self-taught programmer with a curious mind who loves learning and building interesting projects! I have always loved a good challenge and am currently having fun dabbling in backend development and trying to master React. When I'm not coding, you'll likely find me reading or gaming--especially puzzle games!
 
 - 🔭 I’m currently working on a weather app called [Atmos](https://github.com/VenusY/atmos-weather-app)
 - 🌱 I’m currently learning React, Node.js, Express.js, and API integration
