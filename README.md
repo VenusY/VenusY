@@ -4,7 +4,7 @@ Welcome to my profile! I am a self-taught programmer with a curious mind who lov
 
 - 🔭 I’m currently working on a weather app called [Atmos](https://github.com/VenusY/atmos-weather-app)
 - 🌱 I’m currently learning React, Node.js, Express.js, and API integration
-- 📫 You can reach me using my email or the 'contact me' section of my website
+- 📫 You can reach me using my email or the 'contact me' section of my portfolio website
 
 <!--
 **VenusY/VenusY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
