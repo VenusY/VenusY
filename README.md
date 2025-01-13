@@ -1,5 +1,8 @@
 ## Hi there, I'm Venus Yip 👋
 
+- 🔭 I’m currently working on a weather app called [Atmos](https://github.com/VenusY/atmos-weather-app)
+- 🌱 I’m currently learning Node.js, Express.js, and API integration
+
 <!--
 **VenusY/VenusY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
