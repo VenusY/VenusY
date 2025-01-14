@@ -11,6 +11,9 @@ Welcome to my profile! I am a self-taught programmer with a curious mind who lov
 - **Frameworks & Libraries:** React | Express.js
 - **Tools:** Git & GitHub | VS Code | NPM | Node.js | Webpack | Babel | PostCSS
 
+## 📈 GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VenusY&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **VenusY/VenusY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
