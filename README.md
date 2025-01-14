@@ -6,6 +6,8 @@ Welcome to my profile! I am a self-taught programmer with a curious mind who lov
 - 🌱 I’m currently learning React, Node.js, Express.js, and API integration
 - 📫 You can reach me using my email or the 'contact me' section of my portfolio website
 
+[✨ Portfolio Website](https://venusy.github.io/portfolio/)
+
 ## 🔧 Technologies & Tools
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
