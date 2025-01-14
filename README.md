@@ -8,8 +8,8 @@ Welcome to my profile! I am a self-taught programmer with a curious mind who lov
 
 ## 🔧 Technologies & Tools
 - **Languages:** JavaScript | HTML | CSS | Sass
-- **Frameworks & Libraries:** React | Express.js | Webpack
-- **Tools:** Git & GitHub | VS Code | NPM | Node.js
+- **Frameworks & Libraries:** React | Express.js
+- **Tools:** Git & GitHub | VS Code | NPM | Node.js | Webpack | Babel | PostCSS
 
 <!--
 **VenusY/VenusY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
